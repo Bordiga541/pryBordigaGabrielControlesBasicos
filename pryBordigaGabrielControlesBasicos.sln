@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryBordigaGabrielControlesBasicos", "pryBordigaGabrielControlesBasicos\pryBordigaGabrielControlesBasicos.csproj", "{BE555A56-37DD-41A1-89E2-A62911247064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE555A56-37DD-41A1-89E2-A62911247064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE555A56-37DD-41A1-89E2-A62911247064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE555A56-37DD-41A1-89E2-A62911247064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE555A56-37DD-41A1-89E2-A62911247064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A32D945-1585-4702-A39D-E286072092E3}
+	EndGlobalSection
+EndGlobal
